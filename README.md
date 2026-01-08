@@ -2,6 +2,10 @@
 
 A machine learning–based web application built with **Streamlit**, **Python**, and **scikit-learn** that predicts real estate prices based on key property features. This app allows users to input details like *location*, *total square feet*, *number of bedrooms (BHK)*, and *bathrooms* to get an estimated price using a trained regression model. :contentReference[oaicite:1]{index=1}
 
+## 📸 Application Screenshot
+
+![Real Estate Price Prediction App](images/app_screenshot.png)
+
 ## 🧠 Project Overview
 
 This project demonstrates an end-to-end machine learning workflow:
