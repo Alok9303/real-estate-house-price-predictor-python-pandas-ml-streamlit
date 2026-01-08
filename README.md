@@ -4,7 +4,7 @@ A machine learning–based web application built with **Streamlit**, **Python**,
 
 ## 📸 Application Screenshot
 
-![Real Estate Price Prediction App](resources/screenshot.png)
+![Real Estate Price Prediction App](resources/Screenshot.png)
 
 ## 🧠 Project Overview
 
